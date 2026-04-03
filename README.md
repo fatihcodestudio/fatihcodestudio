@@ -4,47 +4,47 @@
 
 </div>
 
-İzmir merkezli, kurumsal web ve mobil ürünler geliştiren bir full-stack developer'ım. Son 5 yılda Agri-Tech, Tekstil ve B2B SaaS sektörlerinde çalıştım — büyük çoğunluğu sıfırdan inşa ettiğim sistemler, hâlâ ayakta.
+Full-stack developer based in İzmir, Turkey. I've spent the last 5 years building enterprise web and mobile products in Agri-Tech, Textile, and B2B SaaS — most of them from scratch, most of them still running.
 
-Şu an ASP.NET Core MVC üzerine kapsamlı bir e-ticaret platformu geliştiriyorum. Entity Framework Core ile karmaşık migrasyon senaryolarını ve görsel yönetimini çözmeye çalışmak bazı günler sabahın üçünü buluyor, ama Clean Architecture'ın bir sistemi nasıl nefes aldırdığını görünce değiyor.
+Right now I'm deep into an ASP.NET Core MVC e-commerce platform. EF Core migrations and image management have a way of turning into 3am problems, but watching a Clean Architecture come together makes it worth it.
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatihcodestudio-181717?style=flat-square&logo=github)](https://github.com/fatihcodestudio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fatihcodestudio-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/fatihcodestudio)
 ![Location](https://img.shields.io/badge/İzmir,_Turkey-🇹🇷-30363d?style=flat-square)
-![Status](https://img.shields.io/badge/Freelance_için_müsait-✅-238636?style=flat-square)
+![Status](https://img.shields.io/badge/Available_for_Freelance-✅-238636?style=flat-square)
 
 ---
 
-## Ne yaptım
+## Things I've shipped
 
-Bazı somut şeyler, pazarlama dili olmadan:
+Some concrete stuff, without the marketing language:
 
-- Bir içerik üretim sürecini LLM + Python pipeline'ıyla kısmen otomatize ettim — ekip aynı işi %40 daha kısa sürede yapıyor artık.
-- Yüksek trafikli endpoint'lere Redis cache katmanı ekledim, sorgu gecikmesi belirgin şekilde düştü.
-- 50K+ aylık aktif kullanıcıya hizmet veren bir sertifikasyon sistemini kesintisiz tutmak için geceleri de uyanık kaldım. Bir kere.
-- Multi-tenant B2B SaaS mimarisi kurdum; 10K+ eş zamanlı istek altında sıkıntısız çalışıyor.
+- Automated a content production pipeline with LLM + Python — the team now does the same work in 40% less time.
+- Added a Redis cache layer to high-traffic endpoints and cut query latency by 25%.
+- Kept a certification system running at 99.9% uptime for 50K+ monthly active users. Woke up at night for it once.
+- Built a multi-tenant B2B SaaS architecture that handles 10K+ concurrent requests without breaking a sweat.
 
 ---
 
 ## Tech stack
 
-Günlük çalıştığım araçlar:
+What I actually work with day to day:
 
 **Backend:** PHP / Laravel · ASP.NET MVC / .NET Core · Python (Django / FastAPI)
 
 **Frontend:** Next.js · TypeScript
 
-**Veritabanı:** MySQL · PostgreSQL · MSSQL · Redis
+**Databases:** MySQL · PostgreSQL · MSSQL · Redis
 
-**Altyapı:** AWS · Docker · Linux · CI/CD
+**Infrastructure:** AWS · Docker · Linux · CI/CD
 
 ---
 
-## Aktif proje
+## Current project
 
 ### 🛒 [ASP.NET Core MVC E-Commerce](https://github.com/fatihcodestudio/aspnetcore-mvc-ecommerce)
 
-.NET 10, Entity Framework Core ve ASP.NET Core Identity üzerine kurulu tam özellikli e-ticaret uygulaması. N-tier mimari, Repository Pattern, Stripe entegrasyonu, sepet ve sipariş yönetimi içeriyor. Hem öğrenme hem de portfolyo amaçlı — kodu temiz tutmaya çalışıyorum.
+A full-featured e-commerce app built on .NET 10, Entity Framework Core, and ASP.NET Core Identity. N-tier architecture, Repository Pattern, Stripe integration, cart and order management. Part learning exercise, part portfolio — trying to keep the code honest.
 
 ---
 
@@ -60,9 +60,9 @@ Günlük çalıştığım araçlar:
 
 ---
 
-## İletişim
+## Get in touch
 
-Freelance projeler, uzun vadeli iş birlikleri veya sadece teknik bir şey konuşmak istiyorsanız LinkedIn'den ulaşabilirsiniz.
+Open to freelance projects, long-term collaborations, or just talking through a technical problem.
 
 <div align="center">
   <a href="https://linkedin.com/in/fatihcodestudio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
